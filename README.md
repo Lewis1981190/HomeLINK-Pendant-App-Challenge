@@ -1,6 +1,8 @@
 # Lewis Kosztan - HomeLINK Pendant App Challenge
 
-A Flutter App demonstating a Proof of Concept app for HomeLINK
+A Flutter App demonstating a Proof of Concept app for HomeLINK.
+
+Created on Flutter v3.32.7. Running Java 17. Built and tested on a Google Pixel 6 Pro running Android 16. 
 
 ## Video Demonstration
 A video demonstration of me talking through the app and how it runs (Including information about Firebase backend services) can be found here:
