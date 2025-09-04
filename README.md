@@ -65,6 +65,7 @@ This app serves as a basic proof-of-concept showing my adherance to the defined 
 
 ### What I Would Do If Given More Time
 - Redo the routing system to use the AutoRoute library.
+- Better app response when another user resolves an alert on a different device.
 - Implement the login, use BLoC and Hive to abstract the business logic and manage user state and data consistently between screens, cut down on repeat database / API calls.
 - Polish the animations. Most of the animations work well, a few are a little jumpy.
 - Fix the black circle around the resolved video animation.
