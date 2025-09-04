@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:homelink_pendant_app/generic_placeholder_widget.dart';
+import 'package:homelink_pendant_app/widgets/generic_placeholder_widget.dart';
 
 class GenericPlaceholderPage extends StatelessWidget {
   final String description;

@@ -6,6 +6,10 @@ A Flutter App demonstating a Proof of Concept app for HomeLINK
 A video demonstration of me talking through the app and how it runs (Including information about Firebase backend services) can be found here:
 - ...Video Link Pending...
 
+## APK Download
+The latest build of the app can be downloaded from here:
+- https://drive.google.com/file/d/1BqaJrlmZ11TRx-z2anC5MIKoDwpLi6UH/view?usp=sharing
+
 ## Installing & Running
 ### 1. Prerequisites
 Make sure you have the following installed:
