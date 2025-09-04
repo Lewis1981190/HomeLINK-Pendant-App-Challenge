@@ -6,7 +6,7 @@ Created on Flutter v3.32.7. Running Java 17. Built and tested on a Google Pixel 
 
 ## Video Demonstration
 A video demonstration of me talking through the app and how it runs (Including information about Firebase backend services) can be found here:
-- ...Video Link Pending...
+- https://youtu.be/4fWeIgfjWuU
 
 ## APK Download
 The latest build of the app can be downloaded from here:
