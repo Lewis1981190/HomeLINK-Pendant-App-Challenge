@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "homelink_pendant_app (Flutter Pixel 6 Pro)",
+            "program": "lib/main.dart",
+            "deviceId": "1A041FDEE008YK",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

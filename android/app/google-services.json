@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797672408477",
+    "project_id": "aico-homelink-pendant-test",
+    "storage_bucket": "aico-homelink-pendant-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797672408477:android:e0bf71096c629784b25b74",
+        "android_client_info": {
+          "package_name": "com.homelink_test.homelink_pendant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANl-_v2qfkdbJDGNsdfJwl7S_td5s5J7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
