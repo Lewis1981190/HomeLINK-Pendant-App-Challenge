@@ -71,6 +71,6 @@ This app serves as a basic proof-of-concept showing my adherance to the defined 
 - Break up the big alert card widget into helper files, child widgets.
 - If developing a real end-to-end application, I'd have the backend services and database modelled before implementing it on the frontend.
 
-### Libraries I would Recommend for Scaling Up & Out
+### Libraries I Would Recommend for Business Use
 - BLoC & Hive - Great for separating business logic and managing state
 - AutoRoute - Standardises and simplifies the routing, lowered the chances of devlopers running into edge-case router issues.
