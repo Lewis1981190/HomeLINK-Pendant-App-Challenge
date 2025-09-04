@@ -19,7 +19,9 @@ I use version managers to easily switch between Java and Flutter versions. I hig
 - [fvm](https://fvm.app) for Flutter. 
 
 ### 2. Clone the repo
-...Repo link pending...
+```
+git clone https://github.com/Lewis1981190/HomeLINK-Pendant-App-Challenge.git
+```
 
 ### 3. Install Dependencies
 ```
